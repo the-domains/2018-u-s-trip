@@ -12,4 +12,8 @@ color:
     - '#588F27'
 layout_spectrum: 0.7160783198196441
 name: 2018 U S Trip
+navigation:
+  - name: The Most Beautiful Mountains in the World
+    id: aba5521d-0a41-4fbf-8407-0b18eef1181f
+    type: content
 title: 21 months to go
